@@ -1,0 +1,5 @@
+local
+target
+thread_pool
+Cargo.lock
+.DS_Store
